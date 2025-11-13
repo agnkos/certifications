@@ -11,4 +11,10 @@
 - [What’s New in React 19? (Scrimba, 66min)](https://scrimba.com/whats-new-in-react-19-c03d)  
 - [GraphQL Crash Course – Net Ninja (YouTube Playlist)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUxtblNUahcsg0WLxmrK_y)  
 - [Learn Next.js – Scrimba (4.3 hrs)](https://scrimba.com/learn-nextjs-c02moisq6a)  
-- [Next.js Learn Tutorial (Official Dashboard App)](https://nextjs.org/learn/dashboard-app)  
+- [Next.js Learn Tutorial (Official Dashboard App)](https://nextjs.org/learn/dashboard-app)
+- preparing for GitHub Copilot Certification:
+    - [GitHub Copilot Fundamentals Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/copilot/)
+    - [GitHub Copilot Fundamentals Part 2 of 2](https://learn.microsoft.com/en-us/training/paths/gh-copilot-2/)
+    - [Accelerate app development by using GitHub Copilot](https://learn.microsoft.com/en-us/training/paths/accelerate-app-development-using-github-copilot/)
+    - [Introduction to GitHub Copilot Enterprise](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-enterprise/)
+    - [Introduction to GitHub Copilot Business](https://learn.microsoft.com/en-us/training/modules/introduction-to-github-copilot-for-business/)
